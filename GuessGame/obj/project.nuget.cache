@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqfjrZmeatA1VvYbuEu7acKYZ2MewVRInZNeOu0pM6x+9YSYpvTgyWftLPOevVxbfkhsvuv9GSXrDo8G4W0itA==",
+  "success": true,
+  "projectFilePath": "D:\\projects_C#\\C#Console\\GuessGame\\GuessGame\\GuessGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jimmy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
